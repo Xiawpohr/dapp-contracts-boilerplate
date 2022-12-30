@@ -34,7 +34,7 @@
     "chai": "^4.2.0",
     "dotenv": "^8.2.0",
     "ethers": "^4.0.41",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "prettier": "^1.19.1",
     "prettier-plugin-solidity": "^1.0.0-alpha.35",
     "solhint": "^2.3.0",
